@@ -17,6 +17,8 @@ for an opportunnity to apply my technical experience.
 
 ###Skills###
 
+* HTML
+* CSS
 
 ###Code samples###
 
