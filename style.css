@@ -1,0 +1,44 @@
+.container{
+	margin: auto;
+	background-color: #fad5aa1e;
+}
+
+header{
+	margin-top: 2%;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+}
+
+.rectangle{
+	
+	height: 100px;
+	background-color: #f7dfc3;
+}
+
+.personal{
+	margin-top: -80px;
+}
+
+.avatar{
+	border-radius: 50%;
+	margin-top: 10px;
+	width: 140px;
+	height: 150px;
+}
+
+.fullName{
+	margin-top: 0px;
+	font: bold 24px Verdana, suns-serif;
+	text-transform: uppercase;
+}
+
+.resume{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+h3{
+	font-family: Arial, suns-serif;
+	color: #fad5aac6;
+}
